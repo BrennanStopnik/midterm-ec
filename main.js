@@ -9,3 +9,15 @@ Create a main.js file with your solution to the problem. Fork/Clone and submit b
     -- You can assume that every number in the array will be unique
 
 */
+
+arr1 = [3, 4, 6, 1, 5, 2];
+arr2 = [4]
+
+function twoSmallest(arr){
+    if (arr.length < 2){
+        return "undefined";
+    }
+    let newArr = [];
+    
+
+}
